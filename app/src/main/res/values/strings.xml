@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PR8_Abramov</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="change_type">Изменить вид карты</string>
+</resources>
